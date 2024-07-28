@@ -10,5 +10,10 @@ class MyTheme{
   static Color grayColor=Color(0xffc8c9cb);
   static Color backGroundDark=Color(0xff060e1e);
   static Color blackDark=Color(0xff141922);
-  static ThemeData ligthTheme=ThemeData();
+  static ThemeData ligthTheme=ThemeData(
+    scaffoldBackgroundColor: backGroundLight,
+    appBarTheme: AppBarTheme(
+      backgroundColor: primaryLight
+  )
+  );
 }

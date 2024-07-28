@@ -7,7 +7,6 @@ static const String routeName="HomeScreen";
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: Text("To Do List"),),
-      backgroundColor: MyTheme.backGroundLight,
     );
   }
 }
