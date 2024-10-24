@@ -1,0 +1,19 @@
+{
+  "todolist": "To Do List",
+  "title": "Title",
+  "description": "Description",
+  "tasklist": "Task list",
+  "settings": "Settings",
+  "addnewtask": "Add New Task",
+  "enteryoutaskname": "Enter You Task Name",
+  "enteryoutaskdescription": "Enter You Task Description",
+  "pleaseentertasktitle": "Please Enter Task Title",
+  "pleaseentertaskdescription": "Please Enter Task Description",
+  "selectdate": "Select Date",
+  "add": "Add",
+  "english": "English",
+  "language": "Language",
+  "mode": "Mode",
+  "light": "Light"
+
+}

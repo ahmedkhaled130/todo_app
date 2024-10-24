@@ -1,0 +1,18 @@
+{
+  "todolist": "تنظيم المهام",
+  "title": "عنوان المهمة",
+  "description": "الوصف",
+  "tasklist": "قائمة المهام",
+  "settings": "الأعدادات",
+  "addnewtask": "اضافه مهمة جديدة",
+  "enteryoutaskname": "ادخل اسم المهمة",
+  "enteryoutaskdescription": "ادخل وصف المهمة",
+  "selectdate": "اختار التاريخ",
+  "add": "أضافة",
+  "pleaseentertasktitle": "من فضلك ادخل اسم المهمة",
+  "pleaseentertaskdescription": "من فضلك ادخل وصف المهمة",
+  "english": "عربي",
+  "language": "اللغة",
+  "mode": "وضع الشاشة",
+  "light": "وضع السطوع"
+}
